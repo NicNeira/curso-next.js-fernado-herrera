@@ -11,6 +11,9 @@ export default function HomePage() {
         <h1 className={'title'}>
           Ir a <Link href="/contact">Contact</Link>
         </h1>
+        <h1 className={'title'}>
+          Ir a <Link href="/pricing">Pricing</Link>
+        </h1>
 
         <p className={'description'}>
           Get started by editing{' '}
